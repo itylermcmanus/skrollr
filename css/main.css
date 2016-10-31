@@ -1,0 +1,148 @@
+html, body{
+	width: 100%;
+	height:100%;
+
+}
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+.sections{
+	position:fixed;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	background-color: 	#cd5c5c;
+
+}
+
+.section{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+
+}
+
+img{
+	width: 100%;
+	height: 100%
+}
+#box1{ 
+width: 100%;
+	height: 100%;
+background-color:	#dcdcdc;
+position: absolute;
+z-index: 1;
+}
+
+#box2{ 
+width: 100%;
+	height: 100%;
+background-color:orange;
+position: absolute;
+z-index: 2;
+	
+}
+
+#box3{ 
+width: 100%;
+	height: 100%;
+
+background-color:blue;
+position: absolute;
+z-index: 3;
+
+}
+
+
+#box4{ 
+width: 100%;
+	height: 100%;
+
+background-color:blue;
+position: absolute;
+z-index: 4;
+
+}
+
+
+#box5{ 
+width: 100%;
+	height: 100%;
+
+background-color:blue;
+position: absolute;
+z-index: 5;
+
+}
+
+
+#box6{ 
+width: 100%;
+	height: 100%;
+
+background-color:blue;
+position: absolute;
+z-index: 6;
+
+}
+
+
+#box7{ 
+width: 100%;
+	height: 100%;
+
+background-color:blue;
+position: absolute;
+z-index: 7;
+
+}
+
+
+#box8{ 
+width: 100%;
+	height: 100%;
+background-color:blue;
+position: absolute; 
+z-index: 8;
+
+
+}
+
+
+#box9{ 
+width: 100%;
+	height: 100%;
+background-color:blue;
+position: absolute;
+z-index: 9;
+
+}
+
+
+#box10{ 
+width: 100%;
+	height: 100%;
+
+background-color:blue;
+position: absolute;
+z-index: 10;
+
+}
+
+
+
+#section1{
+		width: 100%;
+	height: 100%;
+}
+
+#section2{
+	background-color: blue;
+}
